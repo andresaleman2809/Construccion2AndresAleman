@@ -1,2 +1,0 @@
-# Construccion2AndresAleman
-AppTest

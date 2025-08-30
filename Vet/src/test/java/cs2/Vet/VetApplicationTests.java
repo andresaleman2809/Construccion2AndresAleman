@@ -1,10 +1,10 @@
-package app;
+package cs2.Vet;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProyectApplicationTests {
+class VetApplicationTests {
 
 	@Test
 	void contextLoads() {
